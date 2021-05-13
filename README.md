@@ -13,4 +13,4 @@ You will also see any lint errors in the console.
 
 # changes made by Eduardo Galeano
 
-If the app crashs whe using the `npm start` command, try building it with `npm ru bild` and using a static server like `npm serve`
+If the app crashes whe using the `npm start` command, try building it with `npm run bild` and using a static server like `npm serve`
